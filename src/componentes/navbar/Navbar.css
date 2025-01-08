@@ -12,11 +12,11 @@ li, a, span{
     
 }
 
-header div{
+.contenedor{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 100px;
+    
 }
 
 header span{
@@ -24,7 +24,7 @@ header span{
     padding-left: 17px;
 }
 
-.nav__links div{
+.nav-links div{
     list-style: none;
     display: flex;
     padding: 0px 10px;
@@ -37,9 +37,7 @@ header span{
     height: 45px;
 }
 
-nav { 
-    
-}
+
 
 
 
