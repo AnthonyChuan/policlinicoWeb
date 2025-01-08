@@ -8,13 +8,13 @@ const Navbar = () =>{
                 <span>POLICLINICO ESPECIALIZADO SAN GABRIEL</span>
             </div>
         <nav>   
-            <div className="nav-links">
+            <ul className="nav-links">
                 <div><a href="#">NOSOTROS</a></div>
                 <div><a href="#">CONTACTO</a></div>
                 <div>ESPECIALIDADES</div>
                 <div><a href="#">SERVICIOS</a></div>
                 <div><a href="#">INICIO</a></div>
-            </div>
+            </ul>
         </nav>
         </div>
     </header>

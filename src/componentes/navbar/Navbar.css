@@ -19,7 +19,7 @@ li, a, span{
     
 }
 
-header span{
+.logo-clase span{
     text-align: left;
     padding-left: 17px;
 }
