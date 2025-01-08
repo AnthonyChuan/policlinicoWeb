@@ -11,7 +11,7 @@ const Navbar = () =>{
             <ul className="nav-links">
                 <div><a href="#">NOSOTROS</a></div>
                 <div><a href="#">CONTACTO</a></div>
-                <div>ESPECIALIDADES</div>
+                <div className="displayBtn">ESPECIALIDADES</div>
                 <div><a href="#">SERVICIOS</a></div>
                 <div><a href="#">INICIO</a></div>
             </ul>
