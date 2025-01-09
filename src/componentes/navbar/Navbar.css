@@ -32,9 +32,10 @@
 }
 .logo-clase{
     display: flex;
+    
 }
 
-.logo{
+.logo img{
     cursor: pointer;
     width: 40px;
     height: 45px;
