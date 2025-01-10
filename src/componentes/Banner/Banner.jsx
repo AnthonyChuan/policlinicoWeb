@@ -13,7 +13,7 @@ const Banner = ()=>{
             */
         }
         <div className="textBox">
-            <span></span>
+            <p>hola</p>
         </div>
         
         
