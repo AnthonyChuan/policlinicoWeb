@@ -1,0 +1,20 @@
+.contenedorServicios{
+    display: block;
+}
+
+.titulo {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 30px 0px;
+}
+
+.highlight-black {
+    color: rgb(0, 0, 0);
+    font-size: 1em;
+  }
+  
+  .highlight-blue {
+    color: #0093C1;
+    font-size: 1em;
+  }

@@ -13,7 +13,7 @@ const Banner = ()=>{
             */
         }
         <div className="textBox">
-            <p>hola</p>
+            <h1>hoalmundo</h1>
         </div>
         
         
