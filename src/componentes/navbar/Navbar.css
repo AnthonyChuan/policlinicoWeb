@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+li, a, span{
+    font-weight: 500;
+    font-size: 1rem;
+    color: #033249;
+    text-decoration: none;
+    
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 60px;
+}
+
+.logo-clase span{
+    padding-left: 18px;
+    padding-top: 14px;
+}
+
+.nav-links div{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 10px;
+    
+}
+.logo-clase{
+    display: flex;
+    
+}
+
+.logo img{
+    cursor: pointer;
+    width: 40px;
+    height: 45px;
+}
+
+
+
+
+
